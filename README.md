@@ -56,8 +56,9 @@ Before running the application, you must update the `DBConnection.java` file wit
 To allow Java to communicate with PostgreSQL, you must include the JDBC driver in your project:
 
 * **Driver:** `postgresql-42.7.8.jar`
-* **Installation:** 1.  Download the JAR from the [PostgreSQL JDBC site](https://jdbc.postgresql.org/download/).
-    2.  In IntelliJ, go to **File > Project Structure > Libraries**.
-    3.  Click the **+** icon and select the downloaded `.jar` file.
-    4.  Click **Apply** and **OK**.
+* **Installation:**  
+  1. Download the JAR from the [PostgreSQL JDBC site](https://jdbc.postgresql.org/download/).
+  2.  In IntelliJ, go to **File > Project Structure > Libraries**.
+     3.  Click the **+** icon and select the downloaded `.jar` file.
+     4.  Click **Apply** and **OK**.
 
